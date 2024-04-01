@@ -36,7 +36,7 @@ Data Visualization: Painting a Clear Picture 📊 Tableau and Power BI are the g
 The Cloud: Where Data Lives ☁️ Proficiency in cloud platforms like Azure and AWS is becoming increasingly crucial.
 Big Data: Handling the Deluge 🌊 Tools like Hadoop, Databricks, and Spark (especially PySpark) indicate a growing need to handle massive datasets.
 📊 Visualizing Skill Popularity
-[Insert a bar chart here visually representing the frequency of the top skills like SQL, Python, Tableau, Azure, AWS etc.]
+edit after..
 
 💡 Additional Observations
 Advanced Analytics: Getting Deeper 📈 The presence of R signals an emphasis on in-depth statistical analysis and modeling.
