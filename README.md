@@ -94,7 +94,7 @@ ORDER BY
 - Data visualization skills (Tableau, Power BI) are essential for effectively communicating insights and securing well-compensated roles.
 
 
-![Top Paying Jobe Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Jobe Skills](assets/2_top_paying_job_skills.png)
 
 ### Query 3: Top Demanded Skills
 
@@ -210,7 +210,7 @@ LIMIT 25
 - The Data Science Edge: The presence of R, Spark, and SPSS hints at a growing demand for analysts capable of blending traditional analysis with data science techniques.
 
 
-![Optimal Skills](assets\5_optimal_skills.png)
+![Optimal Skills](assets/5_optimal_skills.png)
 
 
 # What I Learned
