@@ -55,7 +55,7 @@ LIMIT 10;
 - Companies like Meta and AT&T appear heavily invested in attracting top remote data analyst talent.
 - The right company fit can significantly impact earning potential, even for entry-level data analysts.
 
-![Top Paying Roles](assets\1_top_payin_rolesg.png)
+![Top Paying Roles](assets/1_top_payin_rolesg.png)
 
 ### Query 2: Top-Paying Job Skills
 **Query Description:**
